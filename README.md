@@ -13,7 +13,7 @@ This script will create
 - SSH server
 
 # Pre-Requsites
-The Resource Group already created and record in the variables.tf
+The Resource Group already created with the region then record in the variables.tf 
 Azure CLI pre-configured
 
 # Final, after apply, you need to take the key from output and the public address
